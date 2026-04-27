@@ -1,4 +1,4 @@
-# MamboRadar 🚀
+# MamboRadar
 
 [English](#english) | [Русский](#русский)
 
