@@ -27,7 +27,7 @@ pip install mcstatus
 ```
 
 #### 2. Targets (Ready to Go)
-The target hosts are already pre-configured in the `pubs.txt` file. You don't need to manually configure them—the list is prepared and ready for execution.
+The target hosts are already pre-configured in the `pubs.txt` file. You don't need to manually configure them-the list is prepared and ready for execution.
 
 #### 3. Run the Scanner
 Start the script:
@@ -45,7 +45,7 @@ Sit back and relax! The scanner will output progress to the console and continuo
 ## 🇷🇺 Русский
 
 ### Что такое MamboRadar?
-**MamboRadar** — это невероятно быстрый, полностью автоматизированный асинхронный сканер Minecraft серверов, написанный на чистом Python. Он предназначен для сканирования тысяч портов на множестве хостов с целью поиска активных серверов без использования тяжелых внешних инструментов.
+**MamboRadar** - это невероятно быстрый, полностью автоматизированный асинхронный сканер Minecraft серверов, написанный на чистом Python. Он предназначен для сканирования тысяч портов на множестве хостов с целью поиска активных серверов без использования тяжелых внешних инструментов.
 
 ### Как это работает
 1. **Загрузка целей**: Скрипт считывает целевые домены или IP-адреса из файла `pubs.txt`.
@@ -64,7 +64,7 @@ pip install mcstatus
 ```
 
 #### 2. Цели (уже готовы)
-Целевые хосты уже заранее настроены в файле `pubs.txt`. Вам не нужно ничего настраивать вручную — список полностью готов к запуску.
+Целевые хосты уже заранее настроены в файле `pubs.txt`. Вам не нужно ничего настраивать вручную - список полностью готов к запуску.
 
 #### 3. Запуск сканера
 Запустите скрипт:
