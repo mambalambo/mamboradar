@@ -1,5 +1,4 @@
 # MamboRadar
-## BY MAMBOVSKIY
 
 [English](#english) | [Русский](#русский)
 
